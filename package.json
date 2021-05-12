@@ -1,11 +1,11 @@
 {
-  "name": "keystone",
-  "version": "4.2.1",
+  "name": "keystone-nestedlist",
+  "version": "1.0.0",
   "description": "Web Application Framework and Admin GUI / Content Management System built on Express.js and Mongoose",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keystonejs/keystone.git"
+    "url": "https://github.com:AhmetCavus/keystone-nestedlist.git"
   },
   "dependencies": {
     "@babel/core": "^7.4.4",
